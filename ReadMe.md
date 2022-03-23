@@ -9,6 +9,8 @@ Each folder is named after its algorithm where it hold the script of implementat
 
 ---
 
+## HCV Project
+
 In the "MachineLearning" folder, there is an "HCV_ClassificationModel" file; Where it doesn't hold a specific algorithm but it contains a model that works on the HSV patients' dataset in Egypt, where we first filter the data and clean any missing or outlier ones, then we test the data with various algorithms comparing thier accuarcy of prediction and selecting the most suitable one.
 
 ```
