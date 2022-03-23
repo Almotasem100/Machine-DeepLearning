@@ -1,7 +1,5 @@
 # Machine & Deep Learning Projects
 
----
-
 The repository contains My implementation of the main types of machine learning and deep learning Algorithms from scratch where I used the Mathematical techniques like Gradient desccent and Regularization.
 </br>
 Each folder is named after its algorithm where it hold the script of implementation in python and the tested dataset.
